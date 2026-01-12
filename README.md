@@ -86,6 +86,8 @@ Admin dashboard
 
 Payment integration
  Learning Outcome
-This project helped in understanding end-to-end full-stack development, data flow between frontend and backend, and best practices in Angular and Node.js development.
+This project helped in understanding 
+end-to-end full-stack development, data flow between frontend and backend, and best practices in Angular and Node.js development.
 
 Some of the project pictures :
+<img width="1834" height="861" alt="Screenshot 2026-01-12 145917" src="https://github.com/user-attachments/assets/2f07a012-0ec7-4917-8f51-8b7a152bceca" />
