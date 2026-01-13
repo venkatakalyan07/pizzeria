@@ -75,19 +75,9 @@ Error-free image handling
 
 Clean and responsive layout
 
-📌 Future Enhancements
-Add to cart functionality
+Learning Outcome :
 
-User authentication
-
-Order summary and checkout
-
-Admin dashboard
-
-Payment integration
- Learning Outcome
-This project helped in understanding 
-end-to-end full-stack development, data flow between frontend and backend, and best practices in Angular and Node.js development.
+This project helped in understanding end-to-end full-stack development, data flow between frontend and backend, and best practices in Angular and Node.js development.
 
 Some of the project pictures :
 <img width="1905" height="883" alt="Screenshot 2026-01-12 195315" src="https://github.com/user-attachments/assets/5c53407d-7dee-4fdf-8bcd-cd18c01f3ed6" />
