@@ -80,10 +80,16 @@ Learning Outcome :
 This project helped in understanding end-to-end full-stack development, data flow between frontend and backend, and best practices in Angular and Node.js development.
 
 Some of the project pictures :
-<img width="1905" height="883" alt="Screenshot 2026-01-12 195315" src="https://github.com/user-attachments/assets/5c53407d-7dee-4fdf-8bcd-cd18c01f3ed6" />
 
-<img width="1903" height="881" alt="Screenshot 2026-01-12 195327" src="https://github.com/user-attachments/assets/d579d030-0eef-4e61-bc9e-068aaaa651b3" />
-<img width="1887" height="880" alt="Screenshot 2026-01-12 195337" src="https://github.com/user-attachments/assets/d0c2bb5a-cf81-4da4-bb2d-321286fda444" />
-<img width="1887" height="882" alt="Screenshot 2026-01-12 195349" src="https://github.com/user-attachments/assets/f2bfa444-b65e-492e-ac1f-6960801eb530"  />
-<img width="1893" height="885" alt="Screenshot 2026-01-12 195403" src="https://github.com/user-attachments/assets/e2e0e7b5-49bd-4ad4-9716-42a801940b11" />
+<img width="1887" height="871" alt="Screenshot 2026-01-13 163519" src="https://github.com/user-attachments/assets/031f102c-dc45-4251-a126-e0394e9b3e5a" />
+
+<img width="1891" height="867" alt="Screenshot 2026-01-13 163541" src="https://github.com/user-attachments/assets/84f3cad1-22c7-415e-b3d9-eda8234871bb" />
+
+<img width="1865" height="874" alt="Screenshot 2026-01-13 163556" src="https://github.com/user-attachments/assets/2f4ed209-5503-40ea-b85f-94b77f8fa216" />
+
+<img width="1896" height="854" alt="Screenshot 2026-01-13 163608" src="https://github.com/user-attachments/assets/5c2a9fbc-33e8-43ef-828d-568021cc68a7" />
+
+<img width="1889" height="874" alt="Screenshot 2026-01-13 163623" src="https://github.com/user-attachments/assets/a7b137c6-56ff-47ad-8418-eb4eb5fcf5c1" />
+
+
 
